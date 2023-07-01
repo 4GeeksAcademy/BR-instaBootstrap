@@ -1,3 +1,17 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+.nav-pills .nav-item .nav-link {
+  background-color: #ffffff00;
+  color: #000000;
+}
+
+.nav-pills .nav-item .nav-link.active {
+  color: #0800ff;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.small-text {
+    font-size: 0.8rem;
+  }
